@@ -1,0 +1,11 @@
+P12-Pin10 -> GND
+P12-Pin09 -> R182 -> R228 & Q13
+P12-Pin08 -> R183 -> U8-Pin21
+P12-Pin07 -> R185 -> U8-Pin13
+P12-Pin06 -> R184 -> U8-Pin25
+P12-Pin05 -> NC
+P12-Pin04 -> C184 -> GND
+P12-Pin03 -> C185 -> GND
+P12-Pin02 -> R194 -> U8-Pin26
+P12-Pin01 -> GND
+
