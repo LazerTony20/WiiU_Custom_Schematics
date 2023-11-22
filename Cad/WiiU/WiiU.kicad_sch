@@ -1,0 +1,34 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 74046161-12f4-4e09-a474-cfaa73535c88)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 27.94 20.32) (size 41.91 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 772f3497-40db-43cb-87b2-3aaa2913bfd7)
+    (property "Sheetname" "Front_Pannel" (at 27.94 19.6084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Front_Pannel.kicad_sch" (at 27.94 42.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Champ2" "" (at 27.94 20.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "WiiU"
+        (path "/74046161-12f4-4e09-a474-cfaa73535c88" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
