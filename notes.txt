@@ -1,0 +1,4 @@
+TP175 -> Heartbeat 2Hz du chip U19 si populé (wii U B)
+il est aussi relié à U17, mais pas de signal détecté sur Wii U A
+
+Patte 1 U8 et patte 1 U17 -> TP146 ->
